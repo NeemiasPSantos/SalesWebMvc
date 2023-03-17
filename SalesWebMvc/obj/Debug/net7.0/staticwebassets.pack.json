@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Lumen.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-Lumen.css"
+    },
+    {
       "Id": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
@@ -131,6 +135,10 @@
     {
       "Id": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.lumen.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.lumen.css"
     },
     {
       "Id": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",

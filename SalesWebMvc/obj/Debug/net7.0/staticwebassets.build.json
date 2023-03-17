@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "srUQmF4FNPGBLSuESfJ7OtTNyrafoBG55yzb8nbVkH4=",
+  "Hash": "P7l+dgGwUp7YnPqYCNagUh2OwHMq/Pyg23mgbM4Uy+g=",
   "Source": "SalesWebMvc",
   "BasePath": "_content/SalesWebMvc",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.lumen.css",
+      "SourceId": "SalesWebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "BasePath": "_content/SalesWebMvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.lumen.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.lumen.css"
     },
     {
       "Identity": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
@@ -372,6 +389,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Lumen.css",
+      "SourceId": "SalesWebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "BasePath": "_content/SalesWebMvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-Lumen.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Lumen.css"
     },
     {
       "Identity": "C:\\Users\\Neemi\\OneDrive\\Área de Trabalho\\Programação\\C#\\Projeto de estudo final\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
